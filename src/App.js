@@ -9,7 +9,7 @@ function App(){
 
   return (
     <div className="App">
-				<h1>Quick Read: Train</h1>
+				<h1>Quick Read</h1>
 
 				<div style={menuStyle}>
 						<button onClick={() => toogleExo(1)} style={buttonStyle}>Info by Fixation</button>
